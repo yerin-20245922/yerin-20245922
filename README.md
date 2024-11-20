@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <div align=center>
 
 [![Git Hub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://yerin-20245922.github.io)](https://github.com/yerin-20245922) 
-[![Mail Badge](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyrsallykim0429.cau.ac.kr)](mailto:kyrsallykim0429.cau.ac.kr)
+[![Mail Badge](https://img.shields.io/badge/School%20Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyrsallykim0429.cau.ac.kr)](mailto:kyrsallykim0429.cau.ac.kr)
 
 [![Yerin's github stats](https://github-readme-stats.vercel.app/api?username=yerin-20245922)](https://github.com/anuraghazra/github-readme-stats)
 
