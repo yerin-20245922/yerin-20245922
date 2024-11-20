@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ## Student 👋
 - Universal Student(programming beginner)
+- Learning Open Source Programming Lecture
 
 ## Interest
 - Steam Game
