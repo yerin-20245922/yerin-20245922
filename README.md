@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20To%20Yerin%20Git%20Hub&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=81D8D0&height=300&section=header&text=Welcome!&fontSize=90" />
 
 ## Student 🎒
 - A Chung-Ang University Student
