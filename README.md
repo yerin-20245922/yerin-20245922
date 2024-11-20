@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 ## ✨ Student ✨
-- Universal Student(programming beginner)
+- A University Student(programming beginner)
 - Learning Open Source Programming Lecture
 
 ## ✨ Interest ✨
