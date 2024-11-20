@@ -17,16 +17,14 @@ Here are some ideas to get you started:
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F79700&width=435&lines=Welcome+to+My+Github!)](https://git.io/typing-svg)
-## About me
-- A Chung-Ang University Student🏫
-- Majoring in Art and Technology✍️
-- Learning Open Source Programming Lecture🖥️
+## 소개
+현재 중앙대학교 다빈치 캠퍼스 재학 중인 예술공학과 1학년 김예린입니다. 어릴 때부터 미술을 좋아하여 예술 관련 업계에 대한 생각이 있었고, 그렇게 현재 예술공학과 학생이 되었습니다. 아직 제 진로가 정확하지 않아 차차 공부해나가며 구체적인 진로를 찾을 생각입니다.
 
-## Interest
-- Steam Game🎮
-- Animation👀
-- Drawing🖌️
-- 3D Modeling⚽
+## 흥미
+- 스팀게임(Steam)🎮
+- 애니메이션👀
+- 그림 그리기🖌️
+- 3D 모델링⚽
 
 <div align=center>
 
