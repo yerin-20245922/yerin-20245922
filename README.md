@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - Steam Game
 - Animation
 - Webtoon
+- Drawing
 
 <div align=center>
 
