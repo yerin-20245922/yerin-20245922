@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Yerin's github stats](https://github-readme-stats.vercel.app/api?username=yerin-20245922)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerin-20245922hazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerin-20245922&layout=compact)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io)](https://github.com/yerin-20245922)
 
