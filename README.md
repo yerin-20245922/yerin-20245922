@@ -20,15 +20,16 @@ Here are some ideas to get you started:
 
 </div>
 
-## ✨ Student ✨
+## Student 🎒
 - A Chung-Ang University Student
 - Learning Open Source Programming Lecture
 
-## ✨ Interest ✨
+## Interest 🥰
 - Steam Game
 - Animation
-- Webtoon
 - Drawing
+- 3D Modeling
+
 
 <div align=center>
 
