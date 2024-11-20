@@ -18,13 +18,17 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyerin-20245922&count_bg=%2343D3B2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+</div>
+
 ## Student 👋
-> Universal Student(programming beginner)
+- Universal Student(programming beginner)
 
 ## Interest
-> Steam Game
-> Animation
-> Webtoon
+- Steam Game
+- Animation
+- Webtoon
+
+<div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yerin-20245922.github.io)](https://github.com/yerin-20245922) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yelinkim0429@gmail.com)](mailto:yelinkim0429@gmail.com)
