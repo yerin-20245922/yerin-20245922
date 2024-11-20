@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 ## ✨ Student ✨
-- A Chun-Ang University Student
+- A Chung-Ang University Student
 - Learning Open Source Programming Lecture
 
 ## ✨ Interest ✨
