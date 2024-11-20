@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerin-20245922&layout=compact)
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io)](https://github.com/yerin-20245922) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yerin-20245922.github.io)](https://github.com/yerin-20245922) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yelinkim0429@gmail.com)](mailto:yelinkim0429@gmail.com)
 </div>
 
