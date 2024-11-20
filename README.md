@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=81D8D0&height=300&section=header&text=Welcome!&fontSize=90" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/demo/?lines=Welcome+to+Yerin+Git+Hub)](https://github.com/yerin-20245922)
+
 ## Student 🎒
 - A Chung-Ang University Student
 - Learning Open Source Programming Lecture
@@ -35,7 +37,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-[![Yerin's github stats](https://github-readme-stats.vercel.app/api?username=yerin-20245922)](https://github.com/anuraghazra/github-readme-stats)
+[![Yerin's github stats](https://github-readme-stats.vercel.app/api?username=yerin-20245922)](https://github.com/yerin-20245922/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerin-20245922&layout=compact)
 
