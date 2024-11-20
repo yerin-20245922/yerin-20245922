@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <div align=center>
 
 [![Git Hub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://yerin-20245922.github.io)](https://github.com/yerin-20245922) 
-[![Mail Badge](https://img.shields.io/badge/School%20Mail-2945C?style=flat-square&logo=mailboxdotorg&logoColor=white&link=mailto:kyrsallykim0429.cau.ac.kr)](mailto:kyrsallykim0429.cau.ac.kr)
+[![Mail Badge](https://img.shields.io/badge/School%20Mail-004C97?style=flat-square&logo=mailboxdotorg&logoColor=white&link=mailto:kyrsallykim0429.cau.ac.kr)](mailto:kyrsallykim0429.cau.ac.kr)
 
 [![Yerin's github stats](https://github-readme-stats.vercel.app/api?username=yerin-20245922)](https://github.com/anuraghazra/github-readme-stats)
 
