@@ -1,6 +1,11 @@
-## Hi there 👋
+## Student 👋
+> Universal Student(programming beginner)
 
-my name is yerin kim
+## Interest
+> Steam Game
+> Animation
+> Webtoon
+
 <!--
 **yerin-20245922/yerin-20245922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
