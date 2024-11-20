@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+my name is yerin kim
 <!--
 **yerin-20245922/yerin-20245922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
