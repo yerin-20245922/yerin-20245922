@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Yerin's+Github!)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com/demo/?size=30&color=F79700&lines=Welcome+to+Yerin's+Github)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F79700&width=435&lines=Welcome+to+Yerin's+Github)](https://git.io/typing-svg)
 ## I am... 
 - A Chung-Ang University Student🏫
 - Learning Open Source Programming Lecture🖥️
