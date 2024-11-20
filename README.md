@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=81D8D0&height=300&section=header&text=Welcome!&fontSize=90" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/demo/?lines=Welcome+to+Yerin+Git+Hub)](https://github.com/yerin-20245922)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Yerin+Git+Hub)](https://git.io/typing-svg)
 
 ## Student 🎒
 - A Chung-Ang University Student
