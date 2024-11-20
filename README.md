@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Yerin's+Github!)](https://git.io/typing-svg)
-
 ## I am... 
 - A Chung-Ang University Student🏫
 - Learning Open Source Programming Lecture🖥️
