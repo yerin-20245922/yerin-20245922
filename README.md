@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 </div>
 
-## Student 👋
+## ✨ Student ✨
 - Universal Student(programming beginner)
 - Learning Open Source Programming Lecture
 
-## Interest
+## ✨ Interest ✨
 - Steam Game
 - Animation
 - Webtoon
