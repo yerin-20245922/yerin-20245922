@@ -1,11 +1,4 @@
-
-
-<div align=center>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFE200,100:F39800&height=200&section=header&text=Nice%20To%20Meet%20You!&fontSize=60&fontAlign=68&fontAlignY=30&fontColor=FFFFFF&animation=fadeIn&desc=welcome%20to%20yerin's%20github&descAlign=83&descAlignY=50)
-
-
-</div>
 
 ## Introduce
 현재 중앙대학교 다빈치 캠퍼스 재학 중인 예술공학과 1학년 김예린입니다. 
@@ -27,7 +20,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerin-20245922&layout=compact&theme=neon&show_icons=true)
 
-
 ## Project
 - 텍스트 형식의 소개팅 시뮬레이션 게임 제작(python)
 - 운석 맞추기 게임 제작(python)
@@ -36,12 +28,10 @@
 
 <div align=center>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyerin-20245922&count_bg=%23F39800&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-
 [![Git Hub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://yerin-20245922.github.io)](https://github.com/yerin-20245922) 
 [![Mail Badge](https://img.shields.io/badge/School%20Mail-004C97?style=flat-square&logo=mailboxdotorg&logoColor=white&link=mailto:kyrsallykim0429.cau.ac.kr)](mailto:kyrsallykim0429.cau.ac.kr)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyerin-20245922&count_bg=%23F39800&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 
