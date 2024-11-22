@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyerin-20245922&count_bg=%2343D3B2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
+
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:FFA500,100:FFD400&height=300&section=header&text=capsule%20render&fontSize=90)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F79700&width=435&lines=Welcome+to+My+Github!)](https://git.io/typing-svg)
+</div>
+
 ## 소개
 / 현재 중앙대학교 다빈치 캠퍼스 재학 중인 예술공학과 1학년 김예린입니다. 
 / 어릴 때부터 미술을 좋아하여 예술 관련 업계에 대한 생각이 있었고, 그렇게 현재 예술공학과 학생이 되었습니다. 
