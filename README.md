@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-[![Yerin's github stats](https://github-readme-stats.vercel.app/api?username=yerin-20245922&theme=calm_pink&show_icons=true)](https://github.com/yerin-20245922/github-readme-stats)
+[![Yerin's github stats](https://github-readme-stats.vercel.app/api?username=yerin-20245922&theme=calm_flag-india_icons=true)](https://github.com/yerin-20245922/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerin-20245922&layout=compact&theme=calm_pink&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerin-20245922&layout=compact&theme=flag-india&show_icons=true)
 
 [![Git Hub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://yerin-20245922.github.io)](https://github.com/yerin-20245922) 
 [![Mail Badge](https://img.shields.io/badge/School%20Mail-004C97?style=flat-square&logo=mailboxdotorg&logoColor=white&link=mailto:kyrsallykim0429.cau.ac.kr)](mailto:kyrsallykim0429.cau.ac.kr)
