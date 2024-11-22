@@ -2,7 +2,7 @@
 ## Introduction
 Hello, I’m Kim Yerin, a freshman majoring in Art Engineering at Chung-Ang University.
 
-Since childhood, I have been fascinated by cartoons, animations, and games, which sparked my interest in art. I often enjoyed drawing cartoon characters and creating my own scenarios. Currently, I am deeply interested in game and animation character design, as well as video editing and production.
+Since childhood, I have been fascinated by cartoons, animations, and games, which sparked my interest in art. I often enjoyed drawing cartoon characters and creating my own scenarios. Currently, I am interested in game and animation character design, as well as video editing and production.
 
 Looking ahead, I aim to explore and develop skills in various creative fields to identify a clear career path that aligns with my passions. Thank you for your time and support—I’m excited about the opportunities to grow and collaborate with others!
 
