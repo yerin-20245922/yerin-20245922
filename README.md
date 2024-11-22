@@ -21,16 +21,15 @@ Looking ahead, I aim to explore and develop skills in various creative fields to
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerin-20245922&layout=compact&theme=flag-india&show_icons=true)
 
 ## Project
-- 텍스트 형식의 소개팅 시뮬레이션 게임 제작 (2024)
+- Text-Based Dating Simulation Game (2024)
 > Python, Pycham
 > 
-> 1인제작, 선택지를 고르며 플레이하는 텍스트 시뮬레이션 게임. 호감도에 따라 다양한 엔딩이 존재하도록 설계.
->
+> A choice-driven text simulation game where players make decisions to progress the story. Multiple endings are available, determined by the player's affinity levels.
 > 
-- 사용자 행동 인식을 통한 식사 메뉴 추천 프로그램 제작 (2024)
+- Meal Recommendation Program Based on User Motion (2024)
 > P5.js
 > 
-> 1인제작, 쉽게 결정을 내리지 못하는 사람들을 위한 프로그램. 사용자가 취하는 형태의 행동을 카메라로 인식하여 무작위로 식사 메뉴를 추천하도록 설계. 
+>  A program designed to assist indecisive individuals in choosing their meals. It utilizes a camera to recognize user behavior and randomly suggests meal options accordingly.
 
 
 ## Contact
