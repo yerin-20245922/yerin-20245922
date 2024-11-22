@@ -16,9 +16,9 @@
 ## Stacks
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"> <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
 
-[![Yerin's github stats](https://github-readme-stats.vercel.app/api?username=yerin-20245922&theme=neon&icons=true)](https://github.com/yerin-20245922/github-readme-stats)
+[![Yerin's github stats](https://github-readme-stats.vercel.app/api?username=yerin-20245922&theme=calm_pink&icons=true)](https://github.com/yerin-20245922/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerin-20245922&layout=compact&theme=neon&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerin-20245922&layout=compact&theme=calm_pink&show_icons=true)
 
 ## Project
 - 텍스트 형식의 소개팅 시뮬레이션 게임 제작(python)
