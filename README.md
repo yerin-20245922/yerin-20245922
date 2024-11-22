@@ -31,6 +31,7 @@
 [![Git Hub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://yerin-20245922.github.io)](https://github.com/yerin-20245922) 
 [![School Mail Badge](https://img.shields.io/badge/School%20Mail-004C97?style=flat-square&logo=mailboxdotorg&logoColor=white&link=mailto:kyrsallykim0429@cau.ac.kr)](mailto:kyrsallykim0429@cau.ac.kr)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:yelinkim0429@gmail.com)](mailto:yelinkim0429@gmail.com)
+[![Naver mail Badge](https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:kyrsallykim0429@naver.com)](mailto:kyrsallykim0429@naver.com)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyerin-20245922&count_bg=%23F39800&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
