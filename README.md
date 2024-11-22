@@ -7,7 +7,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,100:FFD400&height=300&section=header&text=Yerin&fontSize=90)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F79700&width=435&lines=>Welcome+to+My+Github!<)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F79700&width=435&lines=>>Welcome+to+My+Github!<<)](https://git.io/typing-svg)
 </div>
 
 ## 소개
