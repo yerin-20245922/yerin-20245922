@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyerin-20245922&count_bg=%2343D3B2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD400,100:FFA500&height=200&section=header&text=Nice%20To%20Meet%20You!&fontSize=60&fontAlign=68&fontAlignY=30&fontColor=FFFFFF&animation=fadeIn&desc=welcome%20to%20yerin's%20github&descAlign=85&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD400,100:FFA500&height=200&section=header&text=Nice%20To%20Meet%20You!&fontSize=60&fontAlign=68&fontAlignY=30&fontColor=FFFFFF&animation=fadeIn&desc=welcome%20to%20yerin's%20github&descAlign=83&descAlignY=50)
 
 </div>
 
