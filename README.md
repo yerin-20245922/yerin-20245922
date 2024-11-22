@@ -18,10 +18,11 @@
 - 그림 그리기🖌️
 - 3D 모델링⚽
 
-## Language
+## Stacks
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 
-## Tool
+
 
 ## Project
 - 텍스트 형식의 소개팅 시뮬레이션 게임 제작(python)
