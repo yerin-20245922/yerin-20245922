@@ -19,7 +19,7 @@
 - 3D 모델링⚽
 
 ## Language
-<img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 ## Tool
 
