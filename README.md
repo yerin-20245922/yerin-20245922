@@ -1,16 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFE200,100:F39800&height=200&section=header&text=Nice%20To%20Meet%20You!&fontSize=60&fontAlign=68&fontAlignY=30&fontColor=FFFFFF&animation=fadeIn&desc=welcome%20to%20yerin's%20github&descAlign=83&descAlignY=50)
 ## Introduction
-현재 중앙대학교에 재학 중인 예술공학부 1학년 김예린입니다. 
+Hello, I’m Kim Yerin, a freshman majoring in Art Engineering at Chung-Ang University.
 
-어릴 때부터 만화와 애니메이션, 게임을 좋아해 왔고, 직접 만화 캐릭터들을 그리거나 시나리오를 창작하면서 예술에 대한 관심을 키워왔습니다. 현재는 게임과 애니메이션 캐릭터 디자인에 관해 관심이 있고, 영상 편집, 제작에 관해서도 관심이 생겼습니다. 
+Since childhood, I have been fascinated by cartoons, animations, and games, which sparked my interest in art. I often enjoyed drawing cartoon characters and creating my own scenarios. Currently, I am deeply interested in game and animation character design, as well as video editing and production.
 
-앞으로 다양한 분야의 기술들을 공부하고 습득하여 구체적인 진로를 찾고 싶습니다. 잘 부탁드립니다.
+Looking ahead, I aim to explore and develop skills in various creative fields to identify a clear career path that aligns with my passions. Thank you for your time and support—I’m excited about the opportunities to grow and collaborate with others!
 
 ## Interest
-- 게임(Steam, Nintendo)🎮
-- 만화 & 애니메이션 제작🖌️
-- 캐릭터 디자인🐧
-- 3D 모델링⚽
+- Games(Steam, Nintendo)🎮
+- Comics(Webtoon) & Animation🖌️
+- Character Design🐧
+- 3D Modeling⚽
+- Edic Video👀
 
 ## Stacks
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"> <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
