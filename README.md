@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFE200,100:F39800&height=200&section=header&text=Nice%20To%20Meet%20You!&fontSize=60&fontAlign=68&fontAlignY=30&fontColor=FFFFFF&animation=fadeIn&desc=welcome%20to%20yerin's%20github&descAlign=83&descAlignY=50)
 ## Introduction
-현재 중앙대학교 다빈치 캠퍼스 재학 중인 예술공학과 1학년 김예린입니다. 
+현재 중앙대학교 다빈치 캠퍼스 재학 중인 예술공학부 1학년 김예린입니다. 
 
 어릴 때부터 만화와 애니메이션, 게임을 좋아해왔고, 직접 만화 캐릭터들을 그리거나 시나리오를 창작하면서 예술에 대한 관심을 키워왔습니다. 현재는 게임과 애니메이션 캐릭터 디자인에 대해 관심이 있고, 영상 편집, 제작에 관해서도 관심이 생겼습니다. 
 
