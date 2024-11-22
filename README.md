@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-[![Yerin's github stats](https://github-readme-stats.vercel.app/api?username=yerin-20245922&theme=flag-india_icons=true)](https://github.com/yerin-20245922/github-readme-stats)
+[![Yerin's github stats](https://github-readme-stats.vercel.app/api?username=yerin-20245922&theme=flag-india&icons=true)](https://github.com/yerin-20245922/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerin-20245922&layout=compact&theme=flag-india&show_icons=true)
 
