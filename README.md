@@ -26,6 +26,7 @@
 - 국기 그리기(10개 이상)(python)
 - 사용자의 행동 인식을 통한 식사 메뉴 결정 프로그램(p5.js)
 
+## Email
 <div align=center>
   
 [![Git Hub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://yerin-20245922.github.io)](https://github.com/yerin-20245922) 
