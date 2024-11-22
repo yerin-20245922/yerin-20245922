@@ -20,12 +20,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerin-20245922&layout=compact&theme=flag-india&show_icons=true)
 
 ## Project
-- 텍스트 형식의 소개팅 시뮬레이션 게임 제작(python)
-- 운석 맞추기 게임 제작(python)
-- 국기 그리기(10개 이상)(python)
-- 사용자의 행동 인식을 통한 식사 메뉴 결정 프로그램(p5.js)
+- 텍스트 형식의 소개팅 시뮬레이션 게임 제작 (2024)
+-> python
 
-## Email
+
+## Contact
 <div align=center>
   
 [![Git Hub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://yerin-20245922.github.io)](https://github.com/yerin-20245922) 
