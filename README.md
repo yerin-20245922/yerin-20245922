@@ -19,8 +19,7 @@
 - 3D 모델링⚽
 
 ## Language
-- 파이썬
-- c++(기초)
+<img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">
 
 ## Tool
 
