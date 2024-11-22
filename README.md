@@ -19,7 +19,7 @@
 - 3D 모델링⚽
 
 ## Stacks
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"> <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
 
 
 
